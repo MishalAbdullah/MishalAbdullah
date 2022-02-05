@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm am Mishal Abdullah a writer and a python developer + a designer.
+
+
+[![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
+
+
+
+
+
+
 <!--
 **Mishalabdullah/Mishalabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
