@@ -1,26 +1,10 @@
-### Hi there 👋
+# Mishal Abdullah
 
-I'm am Mishal Abdullah a writer and a python developer + a designer.
+I'm am Mishal Abdullah a writer and a python developer + a designer. I have done projects related to data science using tools like python,r and SQL as well as worked in  wordpress.I write blogs  about linux , pivacy and technology in medium.
 
+## Skills
 
 [![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
 
+## Blogs
 
-
-
-
-
-<!--
-**Mishalabdullah/Mishalabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
