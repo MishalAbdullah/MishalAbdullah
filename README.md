@@ -14,8 +14,7 @@ I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done pro
 ## Stats
 [![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
 
-<a id="github-button" class="btn btn-block btn-social btn-github">
-  <i class="fa fa-github"></i> Sign in with Github
-</a>
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](	https://medium.com/@Prinux)
+
 <!-- ## Blogs
 -->
