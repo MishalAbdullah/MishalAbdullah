@@ -19,5 +19,4 @@ I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done pro
   <img align="left"  width="400" src="/medium.png">
 </a>
 
-<!-- 
--->
+
