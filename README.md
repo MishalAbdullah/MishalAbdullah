@@ -14,6 +14,9 @@ I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done pro
 ## Stats
 [![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)
+
 ##  My Blog
 <a href="https://medium.com/@Prinux">
   <img align="left"  width="400" src="/medium.png">
