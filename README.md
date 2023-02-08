@@ -7,9 +7,14 @@ I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done pro
 ## Skills
 ![skills](skills.png) 
 
+- HTML
+- CSS
+- Web Design
+- UI & UX
 - SQL
 - python
-- R
+- Javascript
+- Web Scrapping
 - Tableau
 - Excel & Google Sheet
 
