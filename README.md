@@ -7,16 +7,19 @@ I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done pro
 ## Skills
 ![skills](skills.png) 
 
-- HTML
-- CSS
-- Web Design
-- UI & UX
+- React
+- TailWind
+- Figma
+- Nextjs 13
+- Mongo DB
 - SQL
 - python
 - Javascript
+- Solidity
 - Web Scrapping
-- Tableau
-- Excel & Google Sheet
+- Wagmi
+
+  
 
 ## Stats
 [![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
