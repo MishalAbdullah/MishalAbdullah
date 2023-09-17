@@ -1,6 +1,6 @@
 ## 👋,Hey I'm Mishal Abdullah.
 
-I'm am Mishal Abdullah a data analyst and a writer + a designer. I have done projects related to data science using tools like python,r and SQL as well as worked in  wordpress. I write blogs  about linux , pivacy and technology in medium.
+I'm am Mishal Abdullah a Blockchain Developer and a writer + a designer. I write blogs  about linux , pivacy and technology in medium.
 
 # [ My Website](https://mishalabdullah.xyz)
 
