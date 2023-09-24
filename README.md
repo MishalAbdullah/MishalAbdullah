@@ -13,17 +13,12 @@ I am Mishal Abdullah, a Blockchain Developer, writer, and designer. I write blog
 
 ## My Stats
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1;">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishalabdullah&theme=dark&background=000000)](https://git.io/streak-stats)
-  </div>
-
-  <div style="flex: 1;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishalabdullah&theme=dark&background=000000)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mishalabdullah))
+<!-- 
+[![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # [My Blog](https://medium.com/@Prinux)
 [![My Website](/myscreenshot2.png)](https://medium.com/@Prinux)
