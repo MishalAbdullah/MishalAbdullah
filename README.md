@@ -28,7 +28,5 @@ I'm am Mishal Abdullah a Blockchain Developer and a writer + a designer. I write
 
 
 
-##  My Blog
-<a href="https://medium.com/@Prinux">
-  <img align="left"  width="400" src="/medium.png">
-</a>
+##  [My Website](https://medium.com/@Prinux)
+[![My Website](/myscreenshot2.png)](https://medium.com/@Prinux)
