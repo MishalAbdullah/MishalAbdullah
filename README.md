@@ -1,10 +1,9 @@
-## 👋,Hey I'm Mishal Abdullah.
+## 👋 Hey, I'm Mishal Abdullah.
 
-I'm am Mishal Abdullah a Blockchain Developer and a writer + a designer. I write blogs  about linux , pivacy and technology in medium.
+I am Mishal Abdullah, a Blockchain Developer, writer, and designer. I write blogs about Linux, privacy, and technology on Medium.
 
-##  [My Website](https://mishalabdullah.xyz)
+## [My Website](https://mishalabdullah.xyz)
 [![My Website](/myscreenshot.png)](https://mishalabdullah.xyz)
-
 
 # 💻 Tech Tools
 
@@ -12,21 +11,19 @@ I'm am Mishal Abdullah a Blockchain Developer and a writer + a designer. I write
 ![Solidity](https://img.shields.io/badge/Solidity-%237267E2.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-
-
-<!-- 
-![Fedora](https://img.shields.io/badge/fedora-%230db7ed.svg?style=for-the-badge&logo=fedora&logoColor=white)
--->
 ## My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishalabdullah&theme=dark&background=000000)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Mishalabdullah))
-<!-- 
-[![Mishal' github stats](https://github-readme-stats.vercel.app/api?username=Mishalabdullah)](https://github.com/Mishalabdullah/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/kushal98?tab=repositories)
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
 
+  <div style="flex: 1;">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mishalabdullah&theme=dark&background=000000)](https://git.io/streak-stats)
+  </div>
 
+  <div style="flex: 1;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalabdullah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
-##  [My Website](https://medium.com/@Prinux)
+</div>
+
+# [My Blog](https://medium.com/@Prinux)
 [![My Website](/myscreenshot2.png)](https://medium.com/@Prinux)
