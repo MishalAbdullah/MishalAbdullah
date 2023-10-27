@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Mishal Abdullah.
 
-I am Mishal Abdullah, a Blockchain Developer, writer, and designer. I write blogs about Linux, privacy, and technology on Medium.
+I am Mishal Abdullah, a Blockchain Developer, writer, and designer. I write blogs about Linux, privacy, and technology on Medium.I have also an FOSS developer and love FREE software.
 
 ## [My Website](https://mishalabdullah.xyz)
 [![My Website](/myscreenshot.png)](https://mishalabdullah.xyz)
