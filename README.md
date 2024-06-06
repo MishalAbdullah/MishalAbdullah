@@ -1,6 +1,5 @@
 ## 👋 Hey, I'm Mishal Abdullah.
-
-Hey there! I'm Mishal Abdullah—an innovative force in the realms of web2 and web3 development, a wordsmith crafting compelling narratives, and a visionary designer. My passion lies in unraveling the complexities of Linux, delving into the nuances of privacy, and exploring the frontiers of technology through my captivating blogs on Medium. Fuelled by a profound love for Free and Open-Source Software (FOSS), I'm not just a developer; I'm a champion for the freedom that comes with it. Join me on a journey where code meets creativity, and technology merges with a penchant for liberty.
+A badass programmer with a passion for Hacking things. Constantly building highly niche tools and working on projects that other developers fear to work. 
 
 ## [My Website](https://mishalabdullah.xyz)
 [![My Website](/myscreenshot.png)](https://mishalabdullah.xyz)
