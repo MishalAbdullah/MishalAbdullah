@@ -2,7 +2,7 @@
 A badass programmer with a passion for Hacking things. Constantly building highly niche tools and working on projects that other developers fear to work. 
 
 ## [My Website](https://mishalabdullah.xyz)
-[![My Website](/myscreenshot.png)](https://mishalabdullah.xyz)
+[![My Website](/image.png)](https://mishalabdullah.xyz)
 
 # 💻 Tech Tools
 
